@@ -5,3 +5,6 @@ from the github online
 next day commit
 
 typed while on copy1
+
+type while on copy2
+
